@@ -24,7 +24,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # ============== تنظیمات ربات ==============
-TELEGRAM_BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"  # توکن را اینجا وارد کنید
+TELEGRAM_BOT_TOKEN = "8793482183:AAFFhtwKqtZCNSGk4QjOFZut7RCOzUzzsxU"  # توکن را اینجا وارد کنید
 
 # ==========================================
 
